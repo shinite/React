@@ -1,0 +1,56 @@
+.jumbotron{
+	margin-top: 0;
+	margin-bottom: 35px;
+}
+#logo{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+
+#searchButton
+{
+	display:inline-block;
+	width: 100px;
+	height: 50px;
+	float: right;
+
+}
+#searchBox
+{
+  display: inline;
+	margin-right: 10px;
+	margin-left: 10px;
+	padding-left: 70px;
+	padding-bottom: 30px;
+  height : 20px;
+  width: 1150px;
+}
+#logo
+{
+
+
+	float: left;
+}
+#search-logo
+{
+	width: 30px;
+	height: 30px;
+}
+#heading
+{
+
+	text-align: center;
+}
+
+#right{
+	float: right;
+	color: red;
+
+}
+#left{
+		display: inline;
+	padding-left: 100px;
+	float: left;
+}
